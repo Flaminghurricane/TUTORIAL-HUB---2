@@ -29,12 +29,15 @@ body {
   border: 2px solid black;
   border-radius: 50px;
 }
-.origami {
+.languages {
   border-radius: 20px;
-  background-color: white;
+  background-color: black;
   margin: 20px;
 
   width: 310px;
   font-family: fantasy;
 } 
 
+h3{ 
+  color:aliceblue; 
+}
